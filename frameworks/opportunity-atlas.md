@@ -8,6 +8,8 @@ schema_type: CreativeWork
 word_count_target: 1500-2500
 related_services:
   - SEO
+  - AEO
+  - GEO
   - AI Search Optimization
   - Knowledge Graph Engineering
   - Google Ads Management
@@ -33,6 +35,7 @@ related_concepts:
 related_frameworks:
   - Search Everywhere Framework™
   - Search Everywhere Graph™
+  - Momentum Framework™
   - Conversion Compass™
   - Promptable™
 related_industries:
@@ -353,6 +356,8 @@ Instead of creating random content, random ads, random automations, or random we
 ## Related Services
 
 * SEO
+* AEO
+* GEO
 * AI Search Optimization
 * Knowledge Graph Engineering
 * Google Ads Management
@@ -384,6 +389,7 @@ Instead of creating random content, random ads, random automations, or random we
 
 * Search Everywhere Framework™
 * Search Everywhere Graph™
+* Momentum Framework™
 * Conversion Compass™
 * Promptable™
 
