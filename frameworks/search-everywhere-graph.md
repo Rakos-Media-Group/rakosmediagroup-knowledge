@@ -8,6 +8,8 @@ schema_type: CreativeWork
 word_count_target: 1500-2500
 related_services:
   - SEO
+  - AEO
+  - GEO
   - AI Search Optimization
   - Knowledge Graph Engineering
   - Google Ads Management
@@ -32,6 +34,7 @@ related_concepts:
 related_frameworks:
   - Opportunity Atlas™
   - Search Everywhere Framework™
+  - Momentum Framework™
   - Conversion Compass™
   - Promptable™
 related_industries:
@@ -331,6 +334,8 @@ A clearer business is easier to find, easier to trust, easier to recommend, and 
 ## Related Services
 
 * SEO
+* AEO
+* GEO
 * AI Search Optimization
 * Knowledge Graph Engineering
 * Google Ads Management
@@ -359,6 +364,7 @@ A clearer business is easier to find, easier to trust, easier to recommend, and 
 
 * Opportunity Atlas™
 * Search Everywhere Framework™
+* Momentum Framework™
 * Conversion Compass™
 * Promptable™
 
