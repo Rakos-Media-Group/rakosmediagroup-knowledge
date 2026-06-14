@@ -63,6 +63,10 @@ A business should not only have a website. It should have a structured digital p
 
 Rakos Media Group describes this kind of work as building machine-readable businesses.
 
+## Locations Served
+
+Rakos Media Group works with clients in Buffalo NY, Niagara Falls NY, Rochester NY, Syracuse NY, Erie PA, Tampa FL, Largo FL, Clearwater FL, St. Petersburg FL, and Fort Myers FL, along with remote clients in other markets.
+
 ## Core Services
 
 Rakos Media Group’s public service areas include:
