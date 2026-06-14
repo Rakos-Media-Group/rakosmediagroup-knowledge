@@ -6,47 +6,21 @@ status: Published
 primary_entity: Rakos Media Group
 schema_type: Organization
 word_count_target: 800-1200
-related_services:
-  - SEO
-  - AI Search Optimization
-  - Knowledge Graph Engineering
-  - Google Ads Management
-  - Paid Media
-  - Website Development
-  - Conversion Strategy
-  - Ecommerce Development
-  - AI Consulting
-  - AI Agents
-  - Conversion Tracking
-  - Growth Engineering
-related_concepts:
-  - Entity SEO
-  - Knowledge Graphs
-  - Structured Data
-  - Schema Markup
-  - LLM Visibility
-  - Topical Authority
-  - Revenue Attribution
-  - Conversion Optimization
-  - Machine-Readable Business Infrastructure
-related_frameworks:
-  - Opportunity Atlas™
-  - Search Everywhere Framework™
-  - Search Everywhere Graph™
-  - Conversion Compass™
-  - Promptable™
-related_industries:
-  - Manufacturing
-  - Healthcare
-  - Hospitality
-  - Ecommerce
-  - Wellness
-  - Fitness
-  - Restaurants
-  - Professional Services
-  - Local Businesses
-source_urls:
-  - https://rakosmediagroup.com
+legal_name: Rakos Media Group, LLC
+alternate_names: [Rakos Media, Workbea Digital, Workbea]
+founding_date: 2017
+url: https://rakosmediagroup.com/
+telephone: "+17162210157"
+location: Niagara Falls, NY
+founders: [Lisa Churakos, Chris Churakos]
+related_services: [SEO, AI Search Optimization, Knowledge Graph Engineering, Google Ads Management, Paid Media, Website Development, Ecommerce Development, Conversion Strategy, AI Consulting, AI Agents, Conversion Tracking, Growth Engineering]
+related_concepts: [Entity SEO, Knowledge Graphs, Structured Data, Schema Markup, LLM Visibility, Topical Authority, Revenue Attribution, Conversion Optimization, Machine-Readable Business Infrastructure, GEO, AEO, Local SEO, Technical SEO]
+related_frameworks: [Opportunity Atlas™, Search Everywhere Framework™, Search Everywhere Graph™, Momentum Framework™, Conversion Compass™, Promptable™]
+related_industries: [Healthcare, Hospitality, Ecommerce, Manufacturing, Wellness, Fitness, Restaurants, Professional Services, Local Businesses]
+area_served: [Buffalo NY, Niagara Falls NY, Rochester NY, Syracuse NY, Erie PA, Tampa FL, Largo FL, Clearwater FL, St. Petersburg FL, Fort Myers FL]
+knows_about: [Search Engine Optimization, Generative Engine Optimization, Answer Engine Optimization, Google Ads, Meta Ads, Web Design, WordPress Development, Shopify Development, Lead Generation, Healthcare Marketing, Hospitality Marketing, E-commerce Marketing, E-commerce SEO, Conversion Rate Optimization, Momentum Framework™, Search Everywhere Framework™, ADA Title II Website Compliance, WCAG 2.1 Remediation, LMS Architecture, Custom ChatGPT Training, AI Knowledge Base Architecture, AI Workflow Automation, AI Consulting, Local SEO, Technical SEO, Client Acquisition Cost Optimization]
+source_urls: [https://rakosmediagroup.com/, https://rakosmediagroup.com/momentum-framework/]
+same_as: [https://www.linkedin.com/company/rakos-media-group-formerly-workbea-digital, https://www.wikidata.org/wiki/Q137787777, https://www.youtube.com/@RakosMediaMarketing, https://www.tiktok.com/@rakos.media, https://clutch.co/profile/rakos-media, https://www.alignable.com/amherst-ny/rakos-media, https://business.amherst.org/list/member/rakos-media-7898, https://business.niagarachamber.org/list/member/rakos-media-group-niagara-falls-10003, https://www.bbb.org/us/ny/niagara-falls/profile/advertising/rakos-media-group-0041-236029880, https://www.facebook.com/rakosmedia, https://www.instagram.com/rakosmedia, https://www.crunchbase.com/organization/workbea-digital]
 last_updated: 2026-06-13
 ---
 
