@@ -110,6 +110,19 @@ Search Everywhere Framework™ is Rakos Media Group’s methodology for increasi
 
 Search Everywhere Graph™ is Rakos Media Group’s methodology for structuring businesses into machine-readable systems that search engines and AI platforms can understand and retrieve.
 
+### Momentum Framework™
+
+Momentum Framework™ is Rakos Media Group’s growth framework for helping businesses move from scattered marketing activity to focused, measurable, connected growth.
+
+The framework follows the sequence of clarity, leverage, execution, and scale.
+
+Momentum Framework™ helps connect visibility, messaging, conversion, tracking, follow-up, websites, SEO, Google Ads, paid media, AI systems, and growth engineering.
+
+The live Momentum Framework™ page is:
+
+https://rakosmediagroup.com/momentum-framework/
+
+
 ### Conversion Compass™
 
 Conversion Compass™ is Rakos Media Group’s framework for evaluating how clearly a website, landing page, offer, or message moves a visitor toward action.
