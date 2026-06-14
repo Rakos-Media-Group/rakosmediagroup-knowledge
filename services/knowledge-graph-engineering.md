@@ -1,47 +1,45 @@
 ---
-
 title: Knowledge Graph Engineering
 slug: knowledge-graph-engineering
 type: Service
-status: Draft
+status: Published
+website_status: Not Published
 primary_entity: Rakos Media Group
 schema_type: Service
 word_count_target: 1200-1600
 related_services:
-
-* SEO
-* AI Search Optimization
-* Website Development
-* Conversion Strategy
-* AI Consulting
-* AI Agents
-* Growth Engineering
-  related_concepts:
-* Entity SEO
-* Knowledge Graphs
-* Structured Data
-* Schema Markup
-* LLM Visibility
-* Topical Authority
-* Machine-Readable Business Infrastructure
-  related_frameworks:
-* Opportunity Atlas™
-* Search Everywhere Framework™
-* Search Everywhere Graph™
-  related_industries:
-* Manufacturing
-* Healthcare
-* Hospitality
-* Ecommerce
-* Wellness
-* Fitness
-* Restaurants
-* Professional Services
-* Local Businesses
-  source_urls:
-* https://rakosmediagroup.com
-  last_updated: 2026-06-13
-
+  - SEO
+  - AI Search Optimization
+  - Website Development
+  - Conversion Strategy
+  - AI Consulting
+  - AI Agents
+  - Growth Engineering
+related_concepts:
+  - Entity SEO
+  - Knowledge Graphs
+  - Structured Data
+  - Schema Markup
+  - LLM Visibility
+  - Topical Authority
+  - Machine-Readable Business Infrastructure
+related_frameworks:
+  - Opportunity Atlas™
+  - Search Everywhere Framework™
+  - Search Everywhere Graph™
+related_industries:
+  - Manufacturing
+  - Healthcare
+  - Hospitality
+  - Ecommerce
+  - Wellness
+  - Fitness
+  - Restaurants
+  - Professional Services
+  - Local Businesses
+source_urls:
+  - https://rakosmediagroup.com
+last_updated: 2026-06-13
 ---
 
 # Knowledge Graph Engineering
