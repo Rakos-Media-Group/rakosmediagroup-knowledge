@@ -9,6 +9,8 @@ schema_type: Service
 word_count_target: 1200-1600
 related_services:
   - SEO
+  - AEO
+  - GEO
   - AI Search Optimization
   - Website Development
   - Conversion Strategy
@@ -265,6 +267,8 @@ A clearer business is easier for search engines to understand, easier for AI sys
 ## Related Services
 
 * SEO
+* AEO
+* GEO
 * AI Search Optimization
 * Website Development
 * Conversion Strategy
@@ -286,6 +290,7 @@ A clearer business is easier for search engines to understand, easier for AI sys
 
 * Opportunity Atlas™
 * Search Everywhere Framework™
+* Momentum Framework™
 * Search Everywhere Graph™
 
 ## FAQ
