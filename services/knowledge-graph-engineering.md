@@ -26,6 +26,7 @@ related_concepts:
 related_frameworks:
   - Opportunity Atlas™
   - Search Everywhere Framework™
+  - Momentum Framework™
   - Search Everywhere Graph™
 related_industries:
   - Manufacturing
