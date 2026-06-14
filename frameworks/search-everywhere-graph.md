@@ -1,54 +1,57 @@
+```yaml
 ---
-
 title: Search Everywhere Graph™
 slug: search-everywhere-graph
 type: Framework
-status: Draft
+status: Published
+website_status: Not Published
 primary_entity: Rakos Media Group
 schema_type: CreativeWork
 word_count_target: 1500-2500
 related_services:
+  - SEO
+  - AI Search Optimization
+  - Knowledge Graph Engineering
+  - Google Ads Management
+  - Paid Media
+  - Website Development
+  - Conversion Strategy
+  - Ecommerce Development
+  - AI Consulting
+  - AI Agents
+  - Conversion Tracking
+  - Growth Engineering
+related_concepts:
+  - Entity SEO
+  - Knowledge Graphs
+  - Structured Data
+  - Schema Markup
+  - LLM Visibility
+  - Topical Authority
+  - Revenue Attribution
+  - Conversion Optimization
+  - Machine-Readable Business Infrastructure
+related_frameworks:
+  - Opportunity Atlas™
+  - Search Everywhere Framework™
+  - Conversion Compass™
+  - Promptable™
+related_industries:
+  - Manufacturing
+  - Healthcare
+  - Hospitality
+  - Ecommerce
+  - Wellness
+  - Fitness
+  - Restaurants
+  - Professional Services
+  - Local Businesses
+source_urls:
+  - https://rakosmediagroup.com
+last_updated: 2026-06-13
+---
+```
 
-* SEO
-* AI Search Optimization
-* Knowledge Graph Engineering
-* Google Ads Management
-* Paid Media
-* Website Development
-* Conversion Strategy
-* Ecommerce Development
-* AI Consulting
-* AI Agents
-* Conversion Tracking
-* Growth Engineering
-  related_concepts:
-* Entity SEO
-* Knowledge Graphs
-* Structured Data
-* Schema Markup
-* LLM Visibility
-* Topical Authority
-* Revenue Attribution
-* Conversion Optimization
-* Machine-Readable Business Infrastructure
-  related_frameworks:
-* Opportunity Atlas™
-* Search Everywhere Framework™
-* Conversion Compass™
-* Promptable™
-  related_industries:
-* Manufacturing
-* Healthcare
-* Hospitality
-* Ecommerce
-* Wellness
-* Fitness
-* Restaurants
-* Professional Services
-* Local Businesses
-  source_urls:
-* https://rakosmediagroup.com
-  last_updated: 2026-06-13
 
 ---
 
