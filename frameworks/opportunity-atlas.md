@@ -1,56 +1,53 @@
 ---
-
 title: Opportunity Atlas™
 slug: opportunity-atlas
 type: Framework
-status: Draft
+status: Published
 primary_entity: Rakos Media Group
 schema_type: CreativeWork
 word_count_target: 1500-2500
 related_services:
-
-* SEO
-* AI Search Optimization
-* Knowledge Graph Engineering
-* Google Ads Management
-* Paid Media
-* Website Development
-* Conversion Strategy
-* Ecommerce Development
-* AI Consulting
-* AI Agents
-* Conversion Tracking
-* Growth Engineering
-  related_concepts:
-* Search Demand
-* Buyer Intent
-* Competitive Gaps
-* Visibility Gaps
-* Messaging Opportunities
-* Revenue Opportunities
-* Entity Opportunities
-* Topical Authority
-* Conversion Optimization
-* Machine-Readable Business Infrastructure
-  related_frameworks:
-* Search Everywhere Framework™
-* Search Everywhere Graph™
-* Conversion Compass™
-* Promptable™
-  related_industries:
-* Manufacturing
-* Healthcare
-* Hospitality
-* Ecommerce
-* Wellness
-* Fitness
-* Restaurants
-* Professional Services
-* Local Businesses
-  source_urls:
-* https://rakosmediagroup.com
-  last_updated: 2026-06-13
-
+  - SEO
+  - AI Search Optimization
+  - Knowledge Graph Engineering
+  - Google Ads Management
+  - Paid Media
+  - Website Development
+  - Conversion Strategy
+  - Ecommerce Development
+  - AI Consulting
+  - AI Agents
+  - Conversion Tracking
+  - Growth Engineering
+related_concepts:
+  - Search Demand
+  - Buyer Intent
+  - Competitive Gaps
+  - Visibility Gaps
+  - Messaging Opportunities
+  - Revenue Opportunities
+  - Entity Opportunities
+  - Topical Authority
+  - Conversion Optimization
+  - Machine-Readable Business Infrastructure
+related_frameworks:
+  - Search Everywhere Framework™
+  - Search Everywhere Graph™
+  - Conversion Compass™
+  - Promptable™
+related_industries:
+  - Manufacturing
+  - Healthcare
+  - Hospitality
+  - Ecommerce
+  - Wellness
+  - Fitness
+  - Restaurants
+  - Professional Services
+  - Local Businesses
+source_urls:
+  - https://rakosmediagroup.com
+last_updated: 2026-06-13
 ---
 
 # Opportunity Atlas™
