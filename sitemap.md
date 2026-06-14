@@ -52,6 +52,7 @@ frameworks/search-everywhere-framework.md
 frameworks/search-everywhere-graph.md
 frameworks/conversion-compass.md
 frameworks/promptable.md
+#Momentum Framework.md
 ```
 
 ### Priority Framework Files
