@@ -3,7 +3,6 @@ title: Search Everywhere Framework™
 slug: search-everywhere-framework
 type: Framework
 status: Published
-website_status: Not Published
 primary_entity: Rakos Media Group
 schema_type: CreativeWork
 word_count_target: 1500-2500
