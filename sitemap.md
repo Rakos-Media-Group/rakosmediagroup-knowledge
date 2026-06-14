@@ -52,16 +52,17 @@ frameworks/search-everywhere-framework.md
 frameworks/search-everywhere-graph.md
 frameworks/conversion-compass.md
 frameworks/promptable.md
-#Momentum Framework.md
+frameworks/momentum-framewwork.md
 ```
 
 ### Priority Framework Files
 
 1. Opportunity Atlas™
 2. Search Everywhere Framework™
-3. Search Everywhere Graph™
-4. Conversion Compass™
-5. Promptable™
+3. Momentum Framework™
+4. Search Everywhere Graph™
+5. Conversion Compass™
+6. Promptable™
 
 ## Services
 
