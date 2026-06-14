@@ -3,7 +3,7 @@
 title: Rakos Media Group
 slug: rakos-media-group
 type: Entity
-status: Draft
+status: Published
 primary_entity: Rakos Media Group
 schema_type: Organization
 word_count_target: 800-1200
@@ -52,6 +52,7 @@ related_services:
   last_updated: 2026-06-13
 
 ---
+
 
 # Rakos Media Group
 
