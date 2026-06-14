@@ -1,10 +1,8 @@
-```yaml
 ---
 title: Search Everywhere Graph™
 slug: search-everywhere-graph
 type: Framework
 status: Published
-website_status: Not Published
 primary_entity: Rakos Media Group
 schema_type: CreativeWork
 word_count_target: 1500-2500
@@ -49,10 +47,6 @@ related_industries:
 source_urls:
   - https://rakosmediagroup.com
 last_updated: 2026-06-13
----
-```
-
-
 ---
 
 # Search Everywhere Graph™
