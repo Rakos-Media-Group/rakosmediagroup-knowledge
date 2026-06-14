@@ -1,5 +1,4 @@
 ---
-
 title: Rakos Media Group
 slug: rakos-media-group
 type: Entity
@@ -8,49 +7,47 @@ primary_entity: Rakos Media Group
 schema_type: Organization
 word_count_target: 800-1200
 related_services:
-
-* SEO
-* AI Search Optimization
-* Knowledge Graph Engineering
-* Google Ads Management
-* Paid Media
-* Website Development
-* Conversion Strategy
-* Ecommerce Development
-* AI Consulting
-* AI Agents
-* Conversion Tracking
-* Growth Engineering
-  related_concepts:
-* Entity SEO
-* Knowledge Graphs
-* Structured Data
-* Schema Markup
-* LLM Visibility
-* Topical Authority
-* Revenue Attribution
-* Conversion Optimization
-* Machine-Readable Business Infrastructure
-  related_frameworks:
-* Opportunity Atlas™
-* Search Everywhere Framework™
-* Search Everywhere Graph™
-* Conversion Compass™
-* Promptable™
-  related_industries:
-* Manufacturing
-* Healthcare
-* Hospitality
-* Ecommerce
-* Wellness
-* Fitness
-* Restaurants
-* Professional Services
-* Local Businesses
-  source_urls:
-* https://rakosmediagroup.com
-  last_updated: 2026-06-13
-
+  - SEO
+  - AI Search Optimization
+  - Knowledge Graph Engineering
+  - Google Ads Management
+  - Paid Media
+  - Website Development
+  - Conversion Strategy
+  - Ecommerce Development
+  - AI Consulting
+  - AI Agents
+  - Conversion Tracking
+  - Growth Engineering
+related_concepts:
+  - Entity SEO
+  - Knowledge Graphs
+  - Structured Data
+  - Schema Markup
+  - LLM Visibility
+  - Topical Authority
+  - Revenue Attribution
+  - Conversion Optimization
+  - Machine-Readable Business Infrastructure
+related_frameworks:
+  - Opportunity Atlas™
+  - Search Everywhere Framework™
+  - Search Everywhere Graph™
+  - Conversion Compass™
+  - Promptable™
+related_industries:
+  - Manufacturing
+  - Healthcare
+  - Hospitality
+  - Ecommerce
+  - Wellness
+  - Fitness
+  - Restaurants
+  - Professional Services
+  - Local Businesses
+source_urls:
+  - https://rakosmediagroup.com
+last_updated: 2026-06-13
 ---
 
 
