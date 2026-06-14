@@ -32,3 +32,206 @@ ChatGPT Ads was added to the standard Rakos related services list.
 ## Next File
 
 concepts/entity-seo.md
+
+Update the Rakos Knowledge Sync publishing logic so GitHub Markdown files are not published as one full raw document.
+
+Problem:
+The sync is currently publishing the entire Markdown file body into WordPress, including repository-only sections like Suggested Schema Type, Suggested supporting schema, and Internal Link Suggestions. Those sections are not meant to appear as visible public page content.
+
+Goal:
+Parse each Markdown file into:
+1. Public-facing content
+2. WordPress metadata
+3. Taxonomies and ACF fields
+4. Schema output
+5. Internal linking data
+
+Do not print repo/admin sections as normal page text.
+
+Repository File Format:
+Each knowledge file contains:
+- YAML frontmatter at the top
+- Public article content
+- FAQ section
+- Repository/admin guidance sections at the bottom
+
+YAML frontmatter:
+The YAML frontmatter is metadata only.
+It must not appear on the public WordPress page.
+
+Example YAML fields:
+- title
+- slug
+- type
+- status
+- primary_entity
+- schema_type
+- word_count_target
+- related_services
+- related_concepts
+- related_frameworks
+- related_industries
+- source_urls
+- last_updated
+
+YAML Parsing Rules:
+- Parse YAML frontmatter between the opening and closing --- lines.
+- Do not publish YAML as page content.
+- YAML list items use indented hyphens.
+- Do not convert YAML list items into visible body bullets.
+- Map YAML values to post fields, taxonomies, and ACF fields.
+
+WordPress Field Mapping:
+Map YAML title to the WordPress post title.
+Map YAML slug to the WordPress post slug.
+Map YAML type to the Knowledge Type taxonomy.
+Map YAML primary_entity to the primary_entity ACF field.
+Map YAML schema_type to the schema_type ACF field.
+Map YAML word_count_target to the word_count_target ACF field.
+Map YAML related_services to the related_services ACF field and/or relationship display logic.
+Map YAML related_concepts to the related_concepts ACF field and/or relationship display logic.
+Map YAML related_frameworks to the related_frameworks ACF field and/or relationship display logic.
+Map YAML related_industries to the related_industries ACF field and/or relationship display logic.
+Map YAML source_urls to the source_urls ACF field.
+Map YAML last_updated to the repo_last_updated ACF field.
+
+Public-Facing Content:
+The public WordPress post content should include only the main educational article content.
+
+Publish these sections visibly:
+- H1 title if needed by the template, or use it as the post title and remove duplicate H1 from body
+- Definition
+- Why It Matters
+- How Rakos Media Group Thinks About This
+- Main topic sections
+- Business Impact
+- FAQ
+
+Do not publish these repository/admin sections as normal visible content:
+- Suggested Schema Type
+- Suggested supporting schema
+- Internal Link Suggestions
+
+Related Sections:
+The Markdown body may contain these sections:
+- Related Entities
+- Related Services
+- Related Concepts
+- Related Frameworks
+
+These sections should not remain as plain unlinked text if the template can render them dynamically.
+
+Preferred behavior:
+- Store these values from YAML/Markdown into ACF fields and/or taxonomies.
+- Render them through the WordPress Knowledge template as linked items or cards.
+- Link each related item to the matching Knowledge page or service page when a matching page exists.
+- If no matching page exists, display the label as plain text or omit the link.
+
+Do not hardcode links into every Markdown file unless the link is part of the editorial article content.
+
+Internal Link Suggestions:
+The section titled "Internal Link Suggestions" is repository/admin guidance.
+Do not publish this section visibly on the public page.
+
+Instead:
+- Parse the URLs under Internal Link Suggestions.
+- Store them in the internal_link_suggestions ACF field, one URL per line.
+- Use them for future internal linking automation, related content display, or editorial review.
+- Do not show the heading "Internal Link Suggestions" on the public page.
+
+Suggested Schema Type:
+The section titled "Suggested Schema Type" is repository/admin guidance.
+Do not publish this section visibly on the public page.
+
+Instead:
+- Parse the main suggested schema type and map it to suggested_schema_type or schema_type ACF field.
+- Parse "Suggested supporting schema" items and map them to supporting_schema_types ACF field if that field exists.
+- Use these values to generate JSON-LD schema.
+- Output schema as JSON-LD in the page head or footer according to WordPress best practices.
+- Do not show schema guidance as visible page text.
+
+FAQ Handling:
+The FAQ section is public-facing and should remain visible.
+Also use the FAQ section to generate FAQPage schema when appropriate.
+Do not duplicate FAQ content visibly.
+The visible FAQ and JSON-LD FAQ schema should come from the same parsed FAQ content.
+
+Schema Output:
+Generate schema from parsed metadata and page content.
+Do not display schema text on the public page.
+
+For concept pages:
+- Primary schema type should usually be DefinedTerm.
+- Supporting schema may include Organization, Service, FAQPage, Article, WebPage, DefinedTerm, and BreadcrumbList where appropriate.
+
+For service pages:
+- Primary schema type should usually be Service.
+- Supporting schema may include Organization, FAQPage, WebPage, BreadcrumbList, and Article where appropriate.
+
+For framework pages:
+- Primary schema type should usually be CreativeWork.
+- Supporting schema may include Organization, FAQPage, WebPage, BreadcrumbList, and Article where appropriate.
+
+Public Template Requirements:
+The public Knowledge page should display:
+- Small hero or clean header
+- Post title
+- Knowledge type
+- Last updated date
+- Main article content
+- FAQ
+- Related Services as linked items
+- Related Concepts as linked items
+- Related Frameworks as linked items
+- Related Knowledge when available
+- Soft CTA
+- Footer CTA
+
+The public page should not display:
+- YAML frontmatter
+- Raw metadata
+- Suggested Schema Type section
+- Suggested supporting schema section
+- Internal Link Suggestions section
+- Source URLs as a visible content section unless intentionally added to the template
+- Repo file path
+- GitHub source URL unless intentionally added as an admin-only field
+
+Content Cleanup Rules:
+When syncing a Markdown file:
+1. Remove YAML frontmatter from the visible content.
+2. Extract and store metadata.
+3. Convert the main Markdown content to WordPress post content.
+4. Stop public body publishing before the "Suggested Schema Type" section.
+5. Extract Suggested Schema Type and supporting schema into ACF/schema fields.
+6. Extract Internal Link Suggestions into ACF metadata.
+7. Do not display repository-only sections publicly.
+8. Render related services, concepts, frameworks, and industries through template logic when possible.
+
+Important:
+Do not rewrite the educational content unless explicitly instructed.
+Do not change titles, slugs, or YAML formatting unless fixing validation.
+Do not remove the admin sections from the Markdown repository files. They are useful in GitHub.
+Only prevent those sections from appearing as public page text in WordPress.
+
+Expected Result:
+A GitHub Markdown file can contain both public content and repository metadata, but the WordPress public page should look like a clean knowledge article, not a raw repo document.
+
+The public page should read like:
+- Definition
+- Why It Matters
+- How Rakos Media Group Thinks About This
+- Main educational sections
+- Business Impact
+- FAQ
+- Related linked knowledge
+- CTA
+
+The metadata should power:
+- ACF fields
+- taxonomies
+- related links
+- schema JSON-LD
+- internal linking suggestions
+- sync records
+
