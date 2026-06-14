@@ -14,6 +14,7 @@ related_services:
   - Knowledge Graph Engineering
   - Google Ads Management
   - Paid Media
+  - ChatGPT Ads
   - Website Development
   - Conversion Strategy
   - Ecommerce Development
@@ -37,12 +38,12 @@ related_concepts:
   - Lead Generation
   - Operational Efficiency
 related_frameworks:
-  - Opportunity Atlas™
-  - Search Everywhere Framework™
-  - Search Everywhere Graph™
-  - Momentum Framework™
-  - Conversion Compass™
-  - Promptable™
+  - Opportunity Atlasâ„¢
+  - Search Everywhere Frameworkâ„¢
+  - Search Everywhere Graphâ„¢
+  - Momentum Frameworkâ„¢
+  - Conversion Compassâ„¢
+  - Promptableâ„¢
 related_industries:
   - Manufacturing
   - Healthcare
@@ -200,7 +201,7 @@ Growth Engineering may include systems and automation that reduce manual work or
 
 This can include email automations, CRM workflows, lead notifications, abandoned cart flows, reporting summaries, AI-assisted workflows, and internal process improvements.
 
-Automation should support the customer journey and the team’s workflow. It should not create confusion or remove necessary human judgment.
+Automation should support the customer journey and the teamâ€™s workflow. It should not create confusion or remove necessary human judgment.
 
 ### AI Enablement
 
@@ -278,7 +279,7 @@ This includes businesses that:
 * Need a stronger customer journey
 * Want to scale without guessing
 
-Growth Engineering is especially valuable for businesses that are past the “just build a website” stage and need a more complete system for visibility, action, measurement, and growth.
+Growth Engineering is especially valuable for businesses that are past the â€œjust build a websiteâ€ stage and need a more complete system for visibility, action, measurement, and growth.
 
 ## Related Entities
 
@@ -298,6 +299,7 @@ Growth Engineering is especially valuable for businesses that are past the “ju
 * Knowledge Graph Engineering
 * Google Ads Management
 * Paid Media
+* ChatGPT Ads
 * Website Development
 * Conversion Strategy
 * Ecommerce Development
@@ -325,12 +327,12 @@ Growth Engineering is especially valuable for businesses that are past the “ju
 
 ## Related Frameworks
 
-* Opportunity Atlas™
-* Search Everywhere Framework™
-* Search Everywhere Graph™
-* Momentum Framework™
-* Conversion Compass™
-* Promptable™
+* Opportunity Atlasâ„¢
+* Search Everywhere Frameworkâ„¢
+* Search Everywhere Graphâ„¢
+* Momentum Frameworkâ„¢
+* Conversion Compassâ„¢
+* Promptableâ„¢
 
 ## FAQ
 

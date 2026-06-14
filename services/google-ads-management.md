@@ -14,6 +14,7 @@ related_services:
   - Knowledge Graph Engineering
   - Google Ads Management
   - Paid Media
+  - ChatGPT Ads
   - Website Development
   - Conversion Strategy
   - Ecommerce Development
@@ -36,12 +37,12 @@ related_concepts:
   - Marketing ROI
   - Search Everywhere Visibility
 related_frameworks:
-  - Opportunity Atlas™
-  - Search Everywhere Framework™
-  - Search Everywhere Graph™
-  - Momentum Framework™
-  - Conversion Compass™
-  - Promptable™
+  - Opportunity Atlasâ„¢
+  - Search Everywhere Frameworkâ„¢
+  - Search Everywhere Graphâ„¢
+  - Momentum Frameworkâ„¢
+  - Conversion Compassâ„¢
+  - Promptableâ„¢
 related_industries:
   - Manufacturing
   - Healthcare
@@ -104,7 +105,7 @@ That system includes:
 
 Rakos Media Group thinks about Google Ads through the lens of accountability.
 
-The question is not only, “Did the campaign get clicks?”
+The question is not only, â€œDid the campaign get clicks?â€
 
 The better questions are:
 
@@ -152,7 +153,7 @@ Poor structure makes it difficult to understand what is working and what is wast
 
 ### Ad Copy
 
-Ad copy connects the searcher’s need to the business offer.
+Ad copy connects the searcherâ€™s need to the business offer.
 
 Good ad copy should be clear, relevant, specific, and aligned with the landing page. It should not overpromise or use vague claims that could apply to any competitor.
 
@@ -190,7 +191,7 @@ Negative keyword management is an ongoing process.
 
 ### Performance Max
 
-Performance Max can help businesses reach customers across Google’s network, including Search, Display, YouTube, Discover, Gmail, and Maps.
+Performance Max can help businesses reach customers across Googleâ€™s network, including Search, Display, YouTube, Discover, Gmail, and Maps.
 
 Performance Max can be useful, but it must be managed carefully. It needs strong creative assets, audience signals, conversion tracking, feed quality when ecommerce is involved, and close review of performance.
 
@@ -239,7 +240,7 @@ It supports Conversion Tracking by making measurement necessary and visible.
 
 It supports Growth Engineering by connecting paid traffic to revenue outcomes.
 
-It supports the Search Everywhere Framework™ by adding immediate paid visibility to the broader visibility system.
+It supports the Search Everywhere Frameworkâ„¢ by adding immediate paid visibility to the broader visibility system.
 
 ## Buyer Relevance
 
@@ -279,6 +280,7 @@ Google Ads is most useful when the business has a clear offer, a realistic budge
 * Knowledge Graph Engineering
 * Google Ads Management
 * Paid Media
+* ChatGPT Ads
 * Website Development
 * Conversion Strategy
 * Ecommerce Development
@@ -305,12 +307,12 @@ Google Ads is most useful when the business has a clear offer, a realistic budge
 
 ## Related Frameworks
 
-* Opportunity Atlas™
-* Search Everywhere Framework™
-* Search Everywhere Graph™
-* Momentum Framework™
-* Conversion Compass™
-* Promptable™
+* Opportunity Atlasâ„¢
+* Search Everywhere Frameworkâ„¢
+* Search Everywhere Graphâ„¢
+* Momentum Frameworkâ„¢
+* Conversion Compassâ„¢
+* Promptableâ„¢
 
 ## FAQ
 

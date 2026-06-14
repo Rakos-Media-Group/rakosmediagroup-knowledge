@@ -14,6 +14,7 @@ related_services:
   - Knowledge Graph Engineering
   - Google Ads Management
   - Paid Media
+  - ChatGPT Ads
   - Website Development
   - Conversion Strategy
   - Ecommerce Development
@@ -35,12 +36,12 @@ related_concepts:
   - Content Structure
   - Customer Journey
 related_frameworks:
-  - Opportunity Atlas™
-  - Search Everywhere Framework™
-  - Search Everywhere Graph™
-  - Momentum Framework™
-  - Conversion Compass™
-  - Promptable™
+  - Opportunity Atlasâ„¢
+  - Search Everywhere Frameworkâ„¢
+  - Search Everywhere Graphâ„¢
+  - Momentum Frameworkâ„¢
+  - Conversion Compassâ„¢
+  - Promptableâ„¢
 related_industries:
   - Manufacturing
   - Healthcare
@@ -72,7 +73,7 @@ Rakos Media Group builds websites as conversion-ready business infrastructure.
 
 ## Why It Matters
 
-A website is often the center of a company’s digital presence.
+A website is often the center of a companyâ€™s digital presence.
 
 Ads may bring visitors to the site. SEO may help users discover the site. Social media may create interest. Email may drive return visits. AI search may introduce new prospects. But in most cases, the website is where trust is confirmed and action happens.
 
@@ -189,7 +190,7 @@ A website needs clear conversion paths.
 
 This may include contact forms, booking links, quote requests, phone calls, ecommerce checkout, email signup, consultation calls, downloads, or other actions.
 
-Conversion paths should be easy to find and aligned with the buyer’s stage of awareness.
+Conversion paths should be easy to find and aligned with the buyerâ€™s stage of awareness.
 
 ### Performance and Maintenance
 
@@ -285,6 +286,7 @@ A website is often the first major infrastructure decision in a growth plan. If 
 * Knowledge Graph Engineering
 * Google Ads Management
 * Paid Media
+* ChatGPT Ads
 * Website Development
 * Conversion Strategy
 * Ecommerce Development
@@ -310,12 +312,12 @@ A website is often the first major infrastructure decision in a growth plan. If 
 
 ## Related Frameworks
 
-* Opportunity Atlas™
-* Search Everywhere Framework™
-* Search Everywhere Graph™
-* Momentum Framework™
-* Conversion Compass™
-* Promptable™
+* Opportunity Atlasâ„¢
+* Search Everywhere Frameworkâ„¢
+* Search Everywhere Graphâ„¢
+* Momentum Frameworkâ„¢
+* Conversion Compassâ„¢
+* Promptableâ„¢
 
 ## FAQ
 

@@ -1,0 +1,40 @@
+# Rakos Knowledge Repository Formatting Standard
+
+This file is the repository formatting reference.
+
+Current required rules:
+
+* YAML uses hyphen lists only.
+* Never use star bullets inside YAML.
+* YAML list items must be indented two spaces.
+* Markdown body lists may use star bullets.
+* Use status: Published.
+* Do not use website_status.
+* Every knowledge file starts with YAML frontmatter.
+* After YAML, each file starts with one H1.
+* Include Related Entities, Related Services, Related Concepts, Related Frameworks, FAQ, Suggested Schema Type, and Internal Link Suggestions where relevant.
+* Include AEO and GEO where SEO, AI search, Search Everywhere visibility, or machine-readable visibility are relevant.
+* Include Momentum Framework™ in related frameworks where relevant.
+* Do not use em dashes.
+* Do not include private prompts, SOPs, client data, audit rubrics, scoring systems, API keys, passwords, automation logic, internal decision trees, proprietary workflows, or private implementation details.
+* Publish the what and the why. Protect the exact how.
+
+Current standard related services list:
+
+* SEO
+* AEO
+* GEO
+* AI Search Optimization
+* Knowledge Graph Engineering
+* Google Ads Management
+* Paid Media
+* ChatGPT Ads
+* Website Development
+* Conversion Strategy
+* Ecommerce Development
+* AI Consulting
+* AI Agents
+* Conversion Tracking
+* Growth Engineering
+
+Do not expand this file beyond the rules above unless specifically instructed later.

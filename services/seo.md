@@ -14,6 +14,7 @@ related_services:
   - Knowledge Graph Engineering
   - Google Ads Management
   - Paid Media
+  - ChatGPT Ads
   - Website Development
   - Conversion Strategy
   - Ecommerce Development
@@ -35,12 +36,12 @@ related_concepts:
   - Organic Search
   - Search Intent
 related_frameworks:
-  - Opportunity Atlas™
-  - Search Everywhere Framework™
-  - Search Everywhere Graph™
-  - Momentum Framework™
-  - Conversion Compass™
-  - Promptable™
+  - Opportunity Atlasâ„¢
+  - Search Everywhere Frameworkâ„¢
+  - Search Everywhere Graphâ„¢
+  - Momentum Frameworkâ„¢
+  - Conversion Compassâ„¢
+  - Promptableâ„¢
 related_industries:
   - Manufacturing
   - Healthcare
@@ -131,7 +132,7 @@ On-page SEO improves the content and HTML elements of individual pages.
 
 This includes page titles, meta descriptions, headings, body content, image alt text, internal links, URL structure, schema markup, and content clarity.
 
-For Rakos, on-page SEO should always support the user’s intent. A page should not simply repeat keywords. It should answer the reason behind the search.
+For Rakos, on-page SEO should always support the userâ€™s intent. A page should not simply repeat keywords. It should answer the reason behind the search.
 
 ### Content Strategy
 
@@ -220,7 +221,7 @@ It supports Website Development by shaping site architecture, technical structur
 
 It supports Conversion Strategy by aligning search intent with page experience and calls to action.
 
-It supports the Search Everywhere Framework™ by making the business more visible across search surfaces.
+It supports the Search Everywhere Frameworkâ„¢ by making the business more visible across search surfaces.
 
 ## Buyer Relevance
 
@@ -259,6 +260,7 @@ SEO is especially valuable when the business has a long-term plan and wants sear
 * Knowledge Graph Engineering
 * Google Ads Management
 * Paid Media
+* ChatGPT Ads
 * Website Development
 * Conversion Strategy
 * Ecommerce Development
@@ -284,12 +286,12 @@ SEO is especially valuable when the business has a long-term plan and wants sear
 
 ## Related Frameworks
 
-* Opportunity Atlas™
-* Search Everywhere Framework™
-* Search Everywhere Graph™
-* Momentum Framework™
-* Conversion Compass™
-* Promptable™
+* Opportunity Atlasâ„¢
+* Search Everywhere Frameworkâ„¢
+* Search Everywhere Graphâ„¢
+* Momentum Frameworkâ„¢
+* Conversion Compassâ„¢
+* Promptableâ„¢
 
 ## FAQ
 

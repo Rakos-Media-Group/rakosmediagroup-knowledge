@@ -14,6 +14,7 @@ related_services:
   - Knowledge Graph Engineering
   - Google Ads Management
   - Paid Media
+  - ChatGPT Ads
   - Website Development
   - Conversion Strategy
   - Ecommerce Development
@@ -39,12 +40,12 @@ related_concepts:
   - Fulfillment
   - Email Automation
 related_frameworks:
-  - Opportunity Atlas™
-  - Search Everywhere Framework™
-  - Search Everywhere Graph™
-  - Momentum Framework™
-  - Conversion Compass™
-  - Promptable™
+  - Opportunity Atlasâ„¢
+  - Search Everywhere Frameworkâ„¢
+  - Search Everywhere Graphâ„¢
+  - Momentum Frameworkâ„¢
+  - Conversion Compassâ„¢
+  - Promptableâ„¢
 related_industries:
   - Ecommerce
   - Restaurants
@@ -285,6 +286,7 @@ Ecommerce Development is especially valuable when a business needs the online st
 * Knowledge Graph Engineering
 * Google Ads Management
 * Paid Media
+* ChatGPT Ads
 * Website Development
 * Conversion Strategy
 * Ecommerce Development
@@ -314,12 +316,12 @@ Ecommerce Development is especially valuable when a business needs the online st
 
 ## Related Frameworks
 
-* Opportunity Atlas™
-* Search Everywhere Framework™
-* Search Everywhere Graph™
-* Momentum Framework™
-* Conversion Compass™
-* Promptable™
+* Opportunity Atlasâ„¢
+* Search Everywhere Frameworkâ„¢
+* Search Everywhere Graphâ„¢
+* Momentum Frameworkâ„¢
+* Conversion Compassâ„¢
+* Promptableâ„¢
 
 ## FAQ
 

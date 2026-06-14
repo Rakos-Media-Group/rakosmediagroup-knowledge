@@ -14,6 +14,7 @@ related_services:
   - Knowledge Graph Engineering
   - Google Ads Management
   - Paid Media
+  - ChatGPT Ads
   - Website Development
   - Conversion Strategy
   - Ecommerce Development
@@ -37,12 +38,12 @@ related_concepts:
   - Operational Efficiency
   - Data Readiness
 related_frameworks:
-  - Opportunity Atlas™
-  - Search Everywhere Framework™
-  - Search Everywhere Graph™
-  - Momentum Framework™
-  - Conversion Compass™
-  - Promptable™
+  - Opportunity AtlasÃ¢â€žÂ¢
+  - Search Everywhere FrameworkÃ¢â€žÂ¢
+  - Search Everywhere GraphÃ¢â€žÂ¢
+  - Momentum FrameworkÃ¢â€žÂ¢
+  - Conversion CompassÃ¢â€žÂ¢
+  - PromptableÃ¢â€žÂ¢
 related_industries:
   - Manufacturing
   - Healthcare
@@ -127,7 +128,7 @@ Use case definition identifies the specific business problem the AI Agent should
 
 A strong use case has a clear task, user, input, output, workflow, data source, approval path, and success measure.
 
-Weak use cases sound exciting but remain vague. For example, “use AI to run marketing” is too broad. “Summarize weekly Google Ads performance and identify campaigns that need review” is more useful.
+Weak use cases sound exciting but remain vague. For example, Ã¢â‚¬Å“use AI to run marketingÃ¢â‚¬Â is too broad. Ã¢â‚¬Å“Summarize weekly Google Ads performance and identify campaigns that need reviewÃ¢â‚¬Â is more useful.
 
 ### Workflow Mapping
 
@@ -268,6 +269,7 @@ AI Agents are most useful when the business can clearly define the task and keep
 * Knowledge Graph Engineering
 * Google Ads Management
 * Paid Media
+* ChatGPT Ads
 * Website Development
 * Conversion Strategy
 * Ecommerce Development
@@ -275,81 +277,6 @@ AI Agents are most useful when the business can clearly define the task and keep
 * AI Agents
 * Conversion Tracking
 * Growth Engineering
-
-## Related Concepts
-
-* AI Agents
-* Artificial Intelligence
-* AI Workflow Strategy
-* Business Automation
-* Knowledge Management
-* Process Improvement
-* Workflow Optimization
-* AI Guardrails
-* Human Review
-* Tool Integration
-* Trained GPT
-* Agentic Workflows
-* Operational Efficiency
-* Data Readiness
-
-## Related Frameworks
-
-* Opportunity Atlas™
-* Search Everywhere Framework™
-* Search Everywhere Graph™
-* Momentum Framework™
-* Conversion Compass™
-* Promptable™
-
-## FAQ
-
-### What is an AI Agent?
-
-An AI Agent is a software system that can support tasks, follow instructions, access information, interact with tools, and produce useful outputs with more autonomy than a basic chatbot.
-
-### Is an AI Agent the same as ChatGPT?
-
-No. ChatGPT is a conversational AI tool. An AI Agent is usually designed around a specific workflow, task, data source, or tool connection. An agent may use a language model, but it is built for a defined business function.
-
-### Does every business need an AI Agent?
-
-No. Some businesses need better documentation, better prompts, better workflows, or AI Consulting before they need an agent. An AI Agent is most useful when there is a clear, repeatable workflow to support.
-
-### What can an AI Agent do for a small business?
-
-An AI Agent can help with internal knowledge search, reporting summaries, customer support drafts, sales preparation, content workflows, ecommerce support, task preparation, and other repeatable processes.
-
-### Why do AI Agents need guardrails?
-
-AI Agents need guardrails because they may access information, create outputs, or interact with systems. Guardrails help protect privacy, accuracy, brand voice, approval rules, and customer trust.
-
-### Should AI Agents be fully automated?
-
-Not always. Many useful agents should support human review instead of acting alone. Human approval is important when the task affects customers, campaigns, records, money, legal risk, health information, or public content.
-
-### How does Rakos approach AI Agent Development?
-
-Rakos starts with the business workflow, use case, knowledge sources, guardrails, and success measures. The goal is to build practical agents that support real work instead of adding unnecessary complexity.
-
-### How do AI Agents connect to Knowledge Graph Engineering?
-
-AI Agents become more useful when business knowledge is organized. Knowledge Graph Engineering helps clarify entities, services, concepts, relationships, and information structures that agents can use more reliably.
-
-## Suggested Schema Type
-
-Service
-
-Suggested supporting schema:
-
-* Organization
-* Service
-* SoftwareApplication
-* DefinedTerm
-* FAQPage
-* Article
-* WebPage
-* BreadcrumbList
 
 ## Internal Link Suggestions
 

@@ -14,6 +14,7 @@ related_services:
   - Knowledge Graph Engineering
   - Google Ads Management
   - Paid Media
+  - ChatGPT Ads
   - Website Development
   - Conversion Strategy
   - Ecommerce Development
@@ -37,12 +38,12 @@ related_concepts:
   - Marketing ROI
   - Search Everywhere Visibility
 related_frameworks:
-  - Opportunity Atlas™
-  - Search Everywhere Framework™
-  - Search Everywhere Graph™
-  - Momentum Framework™
-  - Conversion Compass™
-  - Promptable™
+  - Opportunity Atlasâ„¢
+  - Search Everywhere Frameworkâ„¢
+  - Search Everywhere Graphâ„¢
+  - Momentum Frameworkâ„¢
+  - Conversion Compassâ„¢
+  - Promptableâ„¢
 related_industries:
   - Manufacturing
   - Healthcare
@@ -68,7 +69,7 @@ last_updated: 2026-06-14
 
 Paid Media is the strategic planning, setup, management, tracking, and optimization of paid advertising campaigns across digital platforms.
 
-For Rakos Media Group, Paid Media includes channels such as Google Ads, Meta ads, social media advertising, remarketing, YouTube placements, display campaigns, ecommerce advertising, and other paid acquisition channels that may fit the client’s audience and goals.
+For Rakos Media Group, Paid Media includes channels such as Google Ads, Meta ads, social media advertising, remarketing, YouTube placements, display campaigns, ecommerce advertising, and other paid acquisition channels that may fit the clientâ€™s audience and goals.
 
 Paid Media is not simply buying traffic. It is the work of turning paid visibility into measurable business outcomes.
 
@@ -259,7 +260,7 @@ It supports Conversion Tracking by making measurement necessary.
 
 It supports Growth Engineering by connecting acquisition spend to revenue outcomes.
 
-It supports the Search Everywhere Framework™ by adding paid visibility to the organic, AI, local, and conversion layers of the growth system.
+It supports the Search Everywhere Frameworkâ„¢ by adding paid visibility to the organic, AI, local, and conversion layers of the growth system.
 
 ## Buyer Relevance
 
@@ -299,6 +300,7 @@ Paid Media is most effective when the business has a strong offer, a clear audie
 * Knowledge Graph Engineering
 * Google Ads Management
 * Paid Media
+* ChatGPT Ads
 * Website Development
 * Conversion Strategy
 * Ecommerce Development
@@ -326,12 +328,12 @@ Paid Media is most effective when the business has a strong offer, a clear audie
 
 ## Related Frameworks
 
-* Opportunity Atlas™
-* Search Everywhere Framework™
-* Search Everywhere Graph™
-* Momentum Framework™
-* Conversion Compass™
-* Promptable™
+* Opportunity Atlasâ„¢
+* Search Everywhere Frameworkâ„¢
+* Search Everywhere Graphâ„¢
+* Momentum Frameworkâ„¢
+* Conversion Compassâ„¢
+* Promptableâ„¢
 
 ## FAQ
 
