@@ -50,7 +50,7 @@ related_industries:
   - Local Businesses
 source_urls:
   - https://rakosmediagroup.com
-last_updated: 2026-06-13
+last_updated: 2026-10-12
 ---
 
 # Opportunity Atlas™
@@ -238,6 +238,52 @@ A business should be clear enough that people, search engines, and AI systems ca
 * What concepts it should be associated with
 * Why it is credible
 * What action a customer should take next
+
+## What an Opportunity Atlas™ Covers
+
+An Opportunity Atlas™ deliverable is organized into ten sections. Each section answers one question, so every Atlas reads the same way regardless of industry.
+
+### 1. Market Opportunity
+
+How large and healthy is the demand a business can realistically serve, and how much of it is local, regional, or national? This section frames the total market, the serviceable market, and the search demand behind it, so investment decisions start from evidence.
+
+### 2. Adjacent Opportunities
+
+What related services, audiences, locations, channels, or offers could extend growth? Adjacent opportunities show where demand already exists next to what the business sells today.
+
+### 3. Industry Trends
+
+Where is the market heading? This section covers shifts in demand, buyer behavior, technology, regulation, and seasonality, so strategy is built for where the market is going, not where it was.
+
+### 4. Client Avatars
+
+Who actually buys? Avatars are profiles built from real evidence such as reviews, competitor messaging, and published research. They describe motivation, objections, and what proof each buyer needs, instead of relying on invented personas.
+
+### 5. Buyer Psychology
+
+How do these buyers decide? This section identifies the psychological principles that show up in the market and turns them into messaging direction.
+
+### 6. Who Will Follow Through vs. Who Will No-Show
+
+Which prospects become real customers and which do not? Understanding follow-through signals helps a business focus its messaging, intake, and follow-up on the people most likely to act.
+
+### 7. Competitive Gaps
+
+Where are competitors strong, where are they weak, and where is there open positioning space? This section compares real competitors and identifies the angle a business can own.
+
+### 8. Visibility Gap Analysis
+
+Where should the business be findable and is not? Visibility gaps can sit in organic search, local search, AI search, or social and video discovery.
+
+### 9. Pricing and Revenue Opportunity
+
+What can the market bear, and what could the opportunity be worth? This section connects pricing, positioning, and demand to realistic revenue scenarios, with assumptions clearly labeled.
+
+### 10. Entity and Knowledge Graph Opportunities
+
+How clearly can search engines and AI systems understand and trust the business? This section identifies where the business needs a clearer machine-readable identity so it can be recognized, trusted, and cited. It feeds directly into Search Everywhere Graph™ work.
+
+Every section is built on cited sources. Where reliable data is not available, an Atlas says so instead of estimating.
 
 ## How Opportunity Atlas™ Supports Website Development
 
